@@ -2,10 +2,14 @@
 
 I started working as an [ABAP](https://en.wikipedia.org/wiki/ABAP) developer on the 1st of March 2018, during my junior year in [cs university](https://cs.upt.ro/). I slowly began to grow out of the ABAP world, I got tired of it, I wasn't doing nearly as much coding as I wanted and I couldn't find the motivation to dig deeply into that ERP world, and to grasp the whole ecosystem. Meanwhile, I was often thinking at [this Angular course](https://www.udemy.com/course/the-complete-guide-to-angular-2/) that I almost finished during senior year, but never thinking too serious, since that knowledge didn't really find a place in my long-term memory. Angular fuzzed out in my mind, I was writing ABAP and reading business, often finance-related, functional information. Then, seniors of the team started to think about developing a light web dashboard for one of the regularly used ABAP based tool so I offered to take that task. Several weeks into the task and full time into [UI5](https://en.wikipedia.org/wiki/OpenUI5), I was reading API Reference, Samples all day and kept adding incremental functionality to the small app. I liked it, even though we were following a freestyle development approach and crossing out todos during shortened pseudo-sprints. I liked JavaScript and even Eclipse felt such a great change. After sleeping on it a lot I finally decided to close the remaining tasks and go into a 5-month web development learning sabbatical.  
 1st of November 2020 was the first day. I'll keep track here of the resources I dived into:
-- J. Schmedtmann [js course](https://www.udemy.com/course/the-complete-javascript-course/)
-- J. Sch. [html and css course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
-- Max Schwarzmüller [js course](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) - one of my favorite teachers
-- Max Schwarz. [node.js course](https://www.udemy.com/course/nodejs-the-complete-guide/) - insightful but quite Express.js oriented, at this point I plan to keep studying node
-- Max Schwarz. [css course](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/), css grid and flexbox are great
+- J. Schmedtmann [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/)
+- J. Sch. [HTML and CSS course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- Max Schwarzmüller [JavaScript course](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) - one of my favorite teachers
+- Max Schwarz. [Node.js course](https://www.udemy.com/course/nodejs-the-complete-guide/) - insightful but quite Express.js oriented, at this point I plan to keep studying Node
+- Max Schwarz. [CSS course](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/), css grid and flexbox are awesome
   - practiced [flex here](https://flexboxfroggy.com/), [grid here](https://cssgridgarden.com/) and solved some [battles here](https://cssbattle.dev/)
-- took a break from learning and developed this simple game
+- learning break: developed this simple [game](https://github.com/FilipLeonard/whackerston). 
+- Max Schwarz. [Algorithms Fundamentals](https://pro.academind.com/courses/enrolled/913203)
+  - practiced a few problems on [leetcode](https://leetcode.com/problemset/all/) but plan return more often here
+- Max Schwarz. [React course](https://pro.academind.com/courses/enrolled/768614) - React is great😁, I plan to use it for any future hobby project
+  - read React [Main Concepts](https://reactjs.org/docs/thinking-in-react.html) but definitely plan to return here for the rest, awesome docs
