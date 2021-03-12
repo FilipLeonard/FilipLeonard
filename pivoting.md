@@ -13,3 +13,4 @@ I started working as an [ABAP](https://en.wikipedia.org/wiki/ABAP) developer on 
   - practiced a few problems on [leetcode](https://leetcode.com/problemset/all/) but plan return more often here
 - Max Schwarz. [React course](https://pro.academind.com/courses/enrolled/768614) - React is great😁, I plan to use it for any future hobby project
   - read React [Main Concepts](https://reactjs.org/docs/thinking-in-react.html) but definitely plan to return here for the rest, awesome docs
+- unplanned course from [Redis University](https://university.redislabs.com/courses/ru102js/) - hobby project where I needed to cache API responses from a freemium [Rapid API](https://university.redislabs.com/courses/ru102js/) 
