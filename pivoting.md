@@ -7,15 +7,20 @@ Fast-forward 2020, our senior team lead / coach started to bring about into meet
 1st of November 2020 was the first day. Below, I'll keep track of the larger resources I dived into:
 
 - J. Schmedtmann [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/)
+  - built [Forkify](https://github.com/FilipLeonard/forkify)
 - J. Sch. [HTML and CSS course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+  - built [Omnifood](https://github.com/FilipLeonard/omnifood)
 - Max Schwarzmüller [JavaScript course](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) - Max Schwarz. is one of my favorite teachers
 - Max Schwarz. [Node.js course](https://www.udemy.com/course/nodejs-the-complete-guide/) - insightful but quite Express.js oriented, at this point I plan to keep studying Node
+  - built a [basic shop](https://github.com/FilipLeonard/node-shop) and a [REST Api](https://github.com/FilipLeonard/rest-basics-node)
 - Max Schwarz. [CSS course](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/), css grid and flexbox are awesome
+  - built [uHost](https://github.com/FilipLeonard/uHost)
   - practiced [flex here](https://flexboxfroggy.com/), [grid here](https://cssgridgarden.com/) and solved some [battles here](https://cssbattle.dev/)
 - learning break: developed this simple [game](https://github.com/FilipLeonard/whackerston).
 - Max Schwarz. [Algorithms Fundamentals](https://pro.academind.com/courses/enrolled/913203)
   - practiced a few problems on [leetcode](https://leetcode.com/problemset/all/) but plan return here more often
 - Max Schwarz. [React course](https://pro.academind.com/courses/enrolled/768614) - React is great😁, I plan to use it for any future hobby project
+  - built the [Burger Builder](https://github.com/FilipLeonard/burger-builder)
   - read React [Main Concepts](https://reactjs.org/docs/thinking-in-react.html) but definitely plan to return here for the rest, awesome docs
 - currently enrolled in this unplanned course from [Redis University](https://university.redislabs.com/courses/ru102js/)
   - ended here because of a hobby project where I needed to cache responses from a freemium [Rapid API](https://university.redislabs.com/courses/ru102js/)
