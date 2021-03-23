@@ -24,3 +24,4 @@ Fast-forward 2020, our senior team lead / coach started to bring about into meet
   - read React [Main Concepts](https://reactjs.org/docs/thinking-in-react.html) but definitely plan to return here for the rest, awesome docs
 - currently enrolled in this unplanned course from [Redis University](https://university.redislabs.com/courses/ru102js/)
   - ended here because of a hobby project where I needed to cache responses from a freemium [Rapid API](https://university.redislabs.com/courses/ru102js/)
+- Max Schwarz. [Data Structures](https://pro.academind.com/courses/enrolled/1080300)
