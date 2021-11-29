@@ -28,7 +28,7 @@ Fast-forward 2020, our senior team lead / coach started to bring about into meet
 - **5th of April, 2021, 1st day as a Software Engineer for Haufe-Lexware Romania**
   - with all the job tasks, the courses are no longer a priority but feeling uncomfortable with some topics, I plan to find time to study them
 - [Regex Course](https://ict.udemy.com/course/mastering-regular-expressions-in-javascript/)
-- stopped after finishing 65% of this [AWS Cloud Practitioner](https://ict.udemy.com/course/aws-certified-cloud-practitioner-new/) because AWS services are heavily used on the job project
+- 65% of this [AWS Cloud Practitioner](https://ict.udemy.com/course/aws-certified-cloud-practitioner-new/), because AWS services are heavily used on the job project
 - [React And TypeScript](https://ict.udemy.com/course/react-and-typescript-build-a-portfolio-project/), I wanted to practice TypeScript since we use it almost exclusively at the job
   - one of the most interesting courses so far: built a developer tool in the shape of a locally running React app that bundles and executes JavaScript code (including React) in the browser, on the fly
   - [full repo](https://github.com/FilipLeonard/jbook)
