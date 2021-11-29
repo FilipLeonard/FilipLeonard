@@ -22,6 +22,15 @@ Fast-forward 2020, our senior team lead / coach started to bring about into meet
 - Max Schwarz. [React course](https://pro.academind.com/courses/enrolled/768614) - React is great😁, I plan to use it for any future hobby project
   - built the [Burger Builder](https://github.com/FilipLeonard/burger-builder)
   - read React [Main Concepts](https://reactjs.org/docs/thinking-in-react.html) but definitely plan to return here for the rest, awesome docs
-- currently enrolled in this unplanned course from [Redis University](https://university.redislabs.com/courses/ru102js/)
-  - ended here because of a hobby project where I needed to cache responses from a freemium [Rapid API](https://university.redislabs.com/courses/ru102js/)
+- finsihed this Redis course [Redis University](https://university.redislabs.com/courses/ru102js/)
+  - ended here because of a hobby project where I needed to cache responses from a freemium Rapid API
 - Max Schwarz. [Data Structures](https://pro.academind.com/courses/enrolled/1080300)
+- **5th of April, 2021, 1st day as a Software Engineer for Haufe-Lexware Romania**
+  - with all the job tasks, the courses are no longer a priority but feeling uncomfortable with some topics, I plan to find time to study them
+- [Regex Course](https://ict.udemy.com/course/mastering-regular-expressions-in-javascript/)
+- stopped after finishing 65% of this [AWS Cloud Practitioner](https://ict.udemy.com/course/aws-certified-cloud-practitioner-new/) because AWS services are heavily used on the job project
+- [React And TypeScript](https://ict.udemy.com/course/react-and-typescript-build-a-portfolio-project/), I wanted to practice TypeScript since we use it almost exclusively at the job
+  - one of the most interesting courses so far: built a developer tool in the shape of a locally running React app that bundles and executes JavaScript code (including React) in the browser, on the fly
+  - [full repo](https://github.com/FilipLeonard/jbook)
+- [Shell Scripting](https://ict.udemy.com/course/linux-shell-scripting-projects/) 
+- currently studying [Microservices With Node and React](https://ict.udemy.com/course/microservices-with-node-js-and-react/)
