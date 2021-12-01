@@ -32,5 +32,6 @@ Fast-forward 2020, our senior team lead / coach started to bring about into meet
 - [React And TypeScript](https://ict.udemy.com/course/react-and-typescript-build-a-portfolio-project/), I wanted to practice TypeScript since we use it almost exclusively at the job
   - one of the most interesting courses so far: built a developer tool in the shape of a locally running React app that bundles and executes JavaScript code (including React) in the browser, on the fly
   - [full repo](https://github.com/FilipLeonard/jbook)
+- [Terraform Course](https://www.udemy.com/course/complete-terraform-course-beginner-to-advanced/)
 - [Shell Scripting](https://ict.udemy.com/course/linux-shell-scripting-projects/) 
 - currently studying [Microservices With Node and React](https://ict.udemy.com/course/microservices-with-node-js-and-react/)
