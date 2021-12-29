@@ -32,6 +32,9 @@ Fast-forward 2020, our senior team lead / coach started to bring about into meet
 - [React And TypeScript](https://ict.udemy.com/course/react-and-typescript-build-a-portfolio-project/), I wanted to practice TypeScript since we use it almost exclusively at the job
   - one of the most interesting courses so far: built a developer tool in the shape of a locally running React app that bundles and executes JavaScript code (including React) in the browser, on the fly
   - [full repo](https://github.com/FilipLeonard/jbook)
+- read [Eloquent Javascript](https://eloquentjavascript.net/) 
 - [Terraform Course](https://www.udemy.com/course/complete-terraform-course-beginner-to-advanced/)
 - [Shell Scripting Course](https://ict.udemy.com/course/linux-shell-scripting-projects/) 
-- currently studying [Microservices With Node and React](https://ict.udemy.com/course/microservices-with-node-js-and-react/)
+- [Microservices With Node and React](https://ict.udemy.com/course/microservices-with-node-js-and-react/), built a simplified ticketing app with separate services for authentication, tickets, orders, expiration of orders, payments and a simple React client, all orchestrated by Kubernetes. Aspects I liked a lot in this course or found them useful include learning about microservices in general, creating services that 'talk' to each other via an event bus (NATS Server), sharing common code for some of the services through a `common` npm published package and coding a lot in TypeScript.
+- [The Nuts and Bolts of OAuth 2.0](https://www.udemy.com/course/oauth-2-simplified/)
+- currently studying SQL
